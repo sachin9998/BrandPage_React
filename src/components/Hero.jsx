@@ -17,15 +17,15 @@ const Hero = () => {
                 <p>Also Availble On</p>
 
                 <div className="brand-icons">
-                    <img src="/images/amazon.png" alt="Amazon Logo"></img>
-                    <img src="/images/flipkart.png" alt="Flipkart Logo"></img>
+                    <img src="/public/images/amazon.png" alt="Amazon Logo"></img>
+                    <img src="/public/images/flipkart.png" alt="Flipkart Logo"></img>
                 </div>
             </div>
 
         </div>
 
         <div className="hero-image">
-            <img src="/images/hero-image.png" alt="Nike Shoes"></img>
+            <img src="/public/images/hero-image.png" alt="Nike Shoes"></img>
         </div>
 
 
